@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=어려워&fontSize=90)
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+# 어려워
