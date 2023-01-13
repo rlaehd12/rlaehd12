@@ -25,5 +25,4 @@ Here are some ideas to get you started:
  ![image](https://indify.co/weatherIcons/s02n.svg)
  ![image](https://indify.co/weatherIcons/s02n.svg)
  ![image](https://indify.co/weatherIcons/s02n.svg)
- ![image](https://indify.co/weatherIcons/s02n.svg)
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=✨어려워✨&fontSize=90&animation=twinkling&fontColor=d6ace6)
